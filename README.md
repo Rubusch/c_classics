@@ -10,6 +10,10 @@ Collection of code libraries / demos to literature and officially provided mater
  * [Unix Network Programming+Socket API, Richard Stevens, 2008](./book__unix-network-programming__Richard-Stevens)  
    Please, find Richard Stevens' work at http://www.kohala.com/start/unpv12e.html
 
+ * [Linux Device Driver Development for Embedded Processors](./book__linux-device-driver-development-for-embedded-processors__Alberto-Rios)  
+   Please, find Alberto Liberal de los Rios' work at https://github.com/ALIBERA/linux_book_2nd_edition  
+   This contains more recent kernel versions than in the book, different architectures and updated platforms  
+
  * [Linux Device Drivers 3rd, Jonathan Corbet, 2010](./book__linux-device-drivers__Jonathan-Corbet)  
    Please, find Jonathan Corbet's work at https://resources.oreilly.com/examples/9780596005900
 
