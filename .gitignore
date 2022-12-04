@@ -1,0 +1,27 @@
+## backups
+*~
+\#*\#
+.\#*
+*.orig
+*.swp
+
+## cachegrind / valgrind
+callgrind.*
+
+## intermediate
+*.o
+
+## executables
+*.exe
+*.elf
+*.log
+
+## cunit intermediates
+*.xml
+
+## graphviz
+*.dot
+*.png
+
+## etags
+TAGS
