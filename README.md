@@ -12,3 +12,7 @@ Collection of code libraries / demos to literature and officially provided mater
 
  * [Linux Device Drivers 3rd, Jonathan Corbet, 2010](./book__linux-device-drivers__Jonathan-Corbet)
    Please, find Jonathan Corbet's work at https://resources.oreilly.com/examples/9780596005900
+
+ * [Modern C++ Design, Andrei Alexandrescu, 2004](./book__modern-cpp-design__Andrei-Alexandrescu)
+   Please, find Andrei Alexandrescu's work at https://loki-lib.sourceforge.net/index.php?n=Main.ModernCDesign
+
