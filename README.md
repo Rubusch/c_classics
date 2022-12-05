@@ -16,7 +16,7 @@ Collection of code libraries / demos to literature and officially provided mater
  * [Mastering Linux Device Driver Development, John Madieu, 2021](./book__mastering-linux-device-driver-development__john-madieu)  
    Checked out John Madieu's work from https://github.com/PacktPublishing/Linux-Device-Drivers-Development [2ab67b7e8ccdce3c148f59d6b1557149a5f332ff]
 
- * [Linux Device Driver Development for Embedded Processors](./book__linux-device-driver-development-for-embedded-processors__Alberto-Rios)  
+ * [Linux Device Driver Development for Embedded Processors, Alberto Liberal de los Rios, 2018](./book__linux-device-driver-development-for-embedded-processors__Alberto-Rios)  
    Please, find Alberto Liberal de los Rios' work at https://github.com/ALIBERA/linux_book_2nd_edition  
    This contains more recent kernel versions than in the book, different architectures and updated platforms  
 
